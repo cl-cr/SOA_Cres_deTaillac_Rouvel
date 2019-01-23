@@ -2,7 +2,7 @@
 You will find the sources of our service-oriented architecture made for the project "Automatically manage the rooms at INSA".
 
 ## Software used
-- Eclipse JEE v4.7
+- Eclipse JEE
 
 ## Our group
 - Clément Cres
